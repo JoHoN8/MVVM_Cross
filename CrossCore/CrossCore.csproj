@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="AppStart.cs" />
     <Compile Include="Interfaces\IWorker1.cs" />
     <Compile Include="Services\Worker1.cs" />
     <Compile Include="ViewModels\DisplayViewModel.cs" />

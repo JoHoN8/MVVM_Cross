@@ -66,6 +66,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Utilities\TabPresenter.cs" />
     <Compile Include="Views\DisplayView.xaml.cs">
       <DependentUpon>DisplayView.xaml</DependentUpon>
     </Compile>

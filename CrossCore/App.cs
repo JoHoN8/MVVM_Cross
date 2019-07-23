@@ -12,7 +12,7 @@ namespace CrossCore
         {
             Mvx.IoCProvider.RegisterType<IWorker1, Worker1>();
 
-            RegisterAppStart <DisplayViewModel>();
+            RegisterCustomAppStart<AppStart>();
         }
     }
 }
